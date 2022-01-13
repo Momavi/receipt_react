@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Momavi/receipt_react/static/css/main.95ebbd9d.css",
+    "main.js": "/Momavi/receipt_react/static/js/main.05b5246e.js",
+    "index.html": "/Momavi/receipt_react/index.html",
+    "main.95ebbd9d.css.map": "/Momavi/receipt_react/static/css/main.95ebbd9d.css.map",
+    "main.05b5246e.js.map": "/Momavi/receipt_react/static/js/main.05b5246e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95ebbd9d.css",
+    "static/js/main.05b5246e.js"
+  ]
+}
