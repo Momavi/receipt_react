@@ -23,7 +23,7 @@ body {
 }
 .App_header {
   margin: 15px auto;
-  width: 300px;
+  width: 200px;
   margin-bottom: 80px;
   border-bottom: 2px solid rgba(66, 185, 131, 0.44313725490196076);
   border-radius: 30px;
@@ -53,4 +53,16 @@ body {
 .check_data {
   font-size: 14px;
   color: #e0dfddd2;
+}
+
+.receipt_header {
+  margin: 80px auto 25px;
+  width: 320px;
+  margin-bottom: 80px;
+  border-bottom: 2px solid rgba(66, 185, 131, 0.44313725490196076);
+  border-radius: 30px;
+}
+
+.disable {
+  opacity: 0.4;
 }
